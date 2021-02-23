@@ -1,0 +1,12 @@
+[
+    {
+        "filteredStreamRule": "(iphone OR ipad) has:media",
+        "telegramChannelID": "-1000000000001",
+        "tag": "tweets about iProducts containing media"
+    },
+    {
+        "filteredStreamRule": "from:nytimes -is:retweet",
+        "telegramChannelID": "-1000000000002",
+        "tag": "organic tweets by the New York Times"
+    }
+]
